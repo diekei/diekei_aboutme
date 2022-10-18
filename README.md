@@ -1,7 +1,10 @@
 - 👋 Hi, I’m Arif Maulana
-I’m a graduate student of evobio under EMJMD scheme. My home country is Indonesia
-- 🌱 I’m currently affiliated with Rijksuniversiteit Groningen, Ludwig-Maximilians-Universitat Munchen, Museum fur Naturkunde Berlin, and University of Montpellier
-- 💞️ I’m interested with biodiversity, biogeography, speciation, and adaptive radiation of mainly invertebrates
+- MSc student under Erasmus Mundus Master Programme in Evolutionary Biology (MEME intake 2021) at four European universities (University of Groningen, The Netherlands; Ludwig Maximilians University of Munich, Germany; University of Montpellier, France; and University of Cambridge, United Kingdom).
+
+- I am an evolutionary biologist (partly evolutionary ecologist as well), particularly interested in the eco-evolutionary processes leading to the formation of a new species, and the genomic basis of adaptation and speciation, mainly in tropics. My work currently focused on several systems which among these includes: herbivorous ladybird beetle Henosepilachna diekei, Heliconius butterflies, Tylomelania ancient lakes gastropod, Acyrtosiphon pisum pea-aphid complex, and Podarcis wall lizards. (Telmatherina and Sulawesian Oryzias soon!!)
+
+- In the near future, I expect to answer speciation-related questions in the natural populations taking benefits from the untapped potential wealth of biodiversity in Indonesia. Expanding the current research trends (in Indonesia) from biodiversity discovery to understanding how and why the diversity arises.
+
 - 📫 How to reach me? just send an email to arif.maulana@evobio.eu
 
 <!---
