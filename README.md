@@ -1,9 +1,7 @@
 - 👋 Hi, I’m Arif Maulana
-- MSc student under Erasmus Mundus Master Programme in Evolutionary Biology (MEME intake 2021) at four European universities (University of Groningen, The Netherlands; Ludwig Maximilians University of Munich, Germany; University of Montpellier, France; and University of Cambridge, United Kingdom).
+- PhD student at the Wellcome Sanger Institute, University of Cambridge, UK.
 
-- I am an evolutionary biologist (partly evolutionary ecologist as well), particularly interested in the eco-evolutionary processes leading to the formation of a new species, and the genomic basis of adaptation and speciation, mainly in tropics. My work currently focused on several systems which among these includes: herbivorous ladybird beetle Henosepilachna diekei, Heliconius butterflies, Tylomelania ancient lakes gastropod, Acyrtosiphon pisum pea-aphid complex, and Podarcis wall lizards. (Telmatherina and Sulawesian Oryzias soon!!)
-
-- In the near future, I expect to answer speciation-related questions in the natural populations taking benefits from the untapped potential wealth of biodiversity in Indonesia. Expanding the current research trends (in Indonesia) from biodiversity discovery to understanding how and why the diversity arises.
+- As an evolutionary biologist, I am enthusiastic about integrating genomics with ecological and experimental work to dissect the genetic and genomic basis of polygenic traits, such as behaviour and crucially its functional follow-up in adaptation and speciation. I investigate cases involving recent range expansion and colonisation of species that rapidly adapting to novel habitats. This is my repository for depositing codes linked to my research publication.
 
 - 📫 How to reach me? just send an email to arif.maulana@evobio.eu
 
